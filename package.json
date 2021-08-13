@@ -1,0 +1,22 @@
+{
+  "name": "projetoexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricararias/ProjetoExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricararias/ProjetoExpress/issues"
+  },
+  "homepage": "https://github.com/ricararias/ProjetoExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
